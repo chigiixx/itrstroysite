@@ -1,0 +1,14 @@
+{
+  "json.schemas": [],
+  "json.validate.enable": false,
+  "typescript.validate.enable": true,
+  "[json]": {
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "git.ignoreLimitWarning": true
+}
